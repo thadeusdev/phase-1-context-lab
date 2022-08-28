@@ -1,4 +1,19 @@
 /* Your Code Here */
+const employee =
+    {
+        firstName: 'Gray',
+        familyName: 'Worm',
+        title: 'Security',
+        payPerHour: 1,
+        timeInEvents: [],
+        timeOutEvents: []
+    }
+function createEmployeeRecord(){
+    return (employee);
+}
+function createEmployeeRecords(){
+}
+createEmployeeRecords()
 
 /*
  We're giving you this function. Take a look at it, you might see some usage
